@@ -1,1 +1,1 @@
-# Music_artist_collection
+<h3>Инструкция по установке проекта</h3>
